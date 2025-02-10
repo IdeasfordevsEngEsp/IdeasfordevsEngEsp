@@ -6,7 +6,6 @@ I’m passionate about sharing **new project ideas** for both new and experience
 - 🌱 Right now, I’m learning **advanced web development**, **backend frameworks**, and **deployment strategies**.
 - 💞️ I’m looking to collaborate on **creative web projects**, **open-source contributions**, and **building new tools** that other developers can benefit from.
 - 📫 The best way to reach me is through **GitHub Issues**, **email**, or my **social media** (feel free to add links here).
-- 😄 Pronouns: **He/His** (or feel free to change to your preferred pronouns).
 - ⚡ Fun fact: I love **solving complex coding challenges** and **experimenting with new tech stacks** in my free time.
 
 ---
@@ -19,7 +18,6 @@ I’m passionate about sharing **new project ideas** for both new and experience
 - 🌱 Actualmente estoy aprendiendo **desarrollo web avanzado**, **frameworks de backend**, y **estrategias de despliegue**.
 - 💞️ Estoy buscando colaborar en **proyectos web creativos**, **contribuciones de código abierto**, y **crear nuevas herramientas** que otros desarrolladores puedan aprovechar.
 - 📫 La mejor manera de contactarme es a través de **GitHub Issues**, **correo electrónico**, o mis **redes sociales** (agrega enlaces aquí si lo deseas).
-- 😄 Pronombres: **Él/Los suyos** (o puedes cambiarlos a los que prefieras).
 - ⚡ Dato curioso: Me encanta **resolver desafíos complejos de programación** y **experimentar con nuevas tecnologías** en mi tiempo libre.
 
 ---
