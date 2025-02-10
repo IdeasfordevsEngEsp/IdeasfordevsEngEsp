@@ -1,26 +1,26 @@
 # 👋 Hi, I’m @IdeasfordevsEngEsp
 
-I’m passionate about sharing **new project ideas** for both new and experienced developers! My focus is on how to build **projects from scratch** using different languages and technologies, with a special emphasis on web development and server-side solutions. Whether you’re a beginner or a pro, you’ll find something inspiring here.
+I’m passionate about sharing **new project ideas** for both new and experienced developers! My focus is on how to build **projects from scratch** using different languages and technologies, with a special emphasis on web development and server-side solutions. Whether you’re a beginner or a pro, I hope you’ll find something inspiring here.
 
-- 👀 I’m interested in **exploring new development ideas**, **learning new technologies**, and **building useful tools** that can help developers grow their skills.
-- 🌱 I’m currently learning **advanced web development** techniques, **backend frameworks**, and **deployment strategies**.
-- 💞️ I’m looking to collaborate on **creative web projects**, **open-source contributions**, and **building new tools** that developers can benefit from.
-- 📫 How to reach me: You can contact me through **GitHub Issues**, **Email**, or on my **social media** (add links here if you want).
-- 😄 Pronouns: **He/His** (or you can change to your preferred pronouns).
-- ⚡ Fun fact: I enjoy **solving complex coding challenges** and **experimenting with new tech stacks** in my free time.
+- 👀 I’m interested in **exploring new development ideas**, **learning new technologies**, and **building useful tools** that can help other developers grow their skills.
+- 🌱 Right now, I’m learning **advanced web development**, **backend frameworks**, and **deployment strategies**.
+- 💞️ I’m looking to collaborate on **creative web projects**, **open-source contributions**, and **building new tools** that other developers can benefit from.
+- 📫 The best way to reach me is through **GitHub Issues**, **email**, or my **social media** (feel free to add links here).
+- 😄 Pronouns: **He/His** (or feel free to change to your preferred pronouns).
+- ⚡ Fun fact: I love **solving complex coding challenges** and **experimenting with new tech stacks** in my free time.
 
 ---
 
 # 👋 Hola, soy @IdeasfordevsEngEsp
 
-¡Me apasiona compartir **nuevas ideas de proyectos** tanto para desarrolladores nuevos como experimentados! Mi enfoque está en cómo crear **proyectos desde cero** usando diferentes lenguajes y tecnologías, con un énfasis especial en el desarrollo web y soluciones del lado del servidor. Ya seas principiante o profesional, encontrarás algo inspirador aquí.
+¡Me apasiona compartir **nuevas ideas de proyectos** tanto para desarrolladores nuevos como experimentados! Mi enfoque está en cómo crear **proyectos desde cero** usando diferentes lenguajes y tecnologías, con un énfasis especial en el desarrollo web y soluciones del lado del servidor. Ya seas principiante o profesional, espero que encuentres algo inspirador aquí.
 
-- 👀 Me interesa **explorar nuevas ideas de desarrollo**, **aprender nuevas tecnologías**, y **crear herramientas útiles** que puedan ayudar a los desarrolladores a mejorar sus habilidades.
-- 🌱 Actualmente estoy aprendiendo **técnicas avanzadas de desarrollo web**, **frameworks de backend**, y **estrategias de despliegue**.
-- 💞️ Estoy buscando colaborar en **proyectos web creativos**, **contribuciones de código abierto**, y **crear nuevas herramientas** que los desarrolladores puedan aprovechar.
-- 📫 Cómo contactarme: Puedes comunicarte conmigo a través de **GitHub Issues**, **Correo electrónico**, o en mis **redes sociales** (agrega enlaces aquí si lo deseas).
+- 👀 Me interesa **explorar nuevas ideas de desarrollo**, **aprender nuevas tecnologías**, y **crear herramientas útiles** que puedan ayudar a otros desarrolladores a mejorar sus habilidades.
+- 🌱 Actualmente estoy aprendiendo **desarrollo web avanzado**, **frameworks de backend**, y **estrategias de despliegue**.
+- 💞️ Estoy buscando colaborar en **proyectos web creativos**, **contribuciones de código abierto**, y **crear nuevas herramientas** que otros desarrolladores puedan aprovechar.
+- 📫 La mejor manera de contactarme es a través de **GitHub Issues**, **correo electrónico**, o mis **redes sociales** (agrega enlaces aquí si lo deseas).
 - 😄 Pronombres: **Él/Los suyos** (o puedes cambiarlos a los que prefieras).
-- ⚡ Dato curioso: Me encanta **resolver desafíos de codificación complejos** y **experimentar con nuevas tecnologías** en mi tiempo libre.
+- ⚡ Dato curioso: Me encanta **resolver desafíos complejos de programación** y **experimentar con nuevas tecnologías** en mi tiempo libre.
 
 ---
 
